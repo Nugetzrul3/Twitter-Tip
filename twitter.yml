@@ -3,9 +3,9 @@ log:
   level: "info"
 rpc:
   host: localhost
-  port: 9342
-  user: crownrpc
-  pass: CHANGE_ME
+  port: 34229
+  user: user
+  pass: x
 coin:
   withdrawal_fee: 1
   min_withdraw: 5
@@ -14,7 +14,7 @@ coin:
   short_name: CRW
   full_name: Crown
 twitter:
-  username: CrownPayTip
+  username: SugarchainTipBot
   consumer_key: CHANGE_ME
   consumer_secret: CHANGE_ME
   access_token: CHANGE_ME
